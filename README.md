@@ -35,5 +35,6 @@ A very basic barebone node-based pathing system.
 Contains a Serializeable dictionary for the inspector.  Generally I odnt use this anymore, but sometimes I need it so I keep it with me.
 
 # RetroGrid
-A basic grid/tile based implementation for creating basic grid based games.  Contains a basic grid navigator for A* pathing
+A basic grid/tile based implementation for creating basic grid based games.  Contains a basic grid navigator for A* pathing.
+Please note:  I haven't tested this in a while, so there might be issues with latest unity versions.  The projects I have used this on are on hold until I find time to work on them again.
 
