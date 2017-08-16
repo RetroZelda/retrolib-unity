@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ca1e3cb32e9e4146a8c54cc6662c5c2, type: 3}
+  m_Name: XBoxOneBinding
+  m_EditorClassIdentifier: 
+  _LeftFaceButton:
+    _nKeyID: 2
+    _nKeyID_Win: 2
+  _RightFaceButton:
+    _nKeyID: 1
+    _nKeyID_Win: 1
+  _TopFaceButton:
+    _nKeyID: 3
+    _nKeyID_Win: 3
+  _BottomFaceButton:
+    _nKeyID: 0
+    _nKeyID_Win: 0
+  _DirectionAxisX:
+    _szAxisID: Axis6
+    _szAxisID_Win: Axis5
+  _DirectionAxisY:
+    _szAxisID: Axis7
+    _szAxisID_Win: Axis6
+  _LeftShoulderButton:
+    _nKeyID: 4
+    _nKeyID_Win: 4
+  _RightShoulderButton:
+    _nKeyID: 5
+    _nKeyID_Win: 5
+  _StartButton:
+    _nKeyID: 7
+    _nKeyID_Win: 7
+  _SelectButton:
+    _nKeyID: 6
+    _nKeyID_Win: 6
+  _HomeButton:
+    _nKeyID: 8
+    _nKeyID_Win: 10
+  _LeftAnalogAxisX:
+    _szAxisID: Axis0
+    _szAxisID_Win: Axis0
+  _LeftAnalogAxisY:
+    _szAxisID: Axis1
+    _szAxisID_Win: Axis1
+  _LeftAnalogButton:
+    _nKeyID: 9
+    _nKeyID_Win: 8
+  _RightAnalogAxisX:
+    _szAxisID: Axis3
+    _szAxisID_Win: Axis3
+  _RightAnalogAxisY:
+    _szAxisID: Axis4
+    _szAxisID_Win: Axis4
+  _RightAnalogButton:
+    _nKeyID: 10
+    _nKeyID_Win: 9
+  _LeftTriggerAxis:
+    _szAxisID: Axis2
+    _szAxisID_Win: Axis2
+  _RightTriggerAxis:
+    _szAxisID: Axis5
+    _szAxisID_Win: Axis2
+  _CustomKeyBind:
+    keys: []
+    values: []
+  _CustomAxisBind:
+    keys: []
+    values: []
